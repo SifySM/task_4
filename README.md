@@ -1,5 +1,5 @@
-# task_4_way1
-task_4_28_way1
+# task_4
+task_4_28
 
 Задача 4
 
